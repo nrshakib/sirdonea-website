@@ -1,0 +1,446 @@
+[
+    {
+      "name": "Tech Vibes",
+      "category":"tshirt",
+      "id": "1",
+      "image": "/assets/images/Tshirt/tshirt1.png",
+      "lowest_price": 5,
+      "highest_price": 10,
+      "rating": 4.7,
+      "about": "Wear your passion for tech with this minimalist design that speaks to developers, engineers, and anyone who's all about that coding life. Crafted from premium cotton, this t-shirt is as comfortable as it is stylish, perfect for those long days of brainstorming, debugging, or innovating. Let the world know: you are all about progress, growth, and tech vibes only.",
+      "detailed_description": {
+        "summary": "Wear your passion for tech with this minimalist design that speaks to developers, engineers, and anyone who's all about that coding life. Crafted from premium cotton, this t-shirt is as comfortable as it is stylish, perfect for those long days of brainstorming, debugging, or innovating. Let the world know: you are all about progress, growth, and tech vibes only.",
+        "benefits": [
+          "Rich in antioxidants for combating free radicals.",
+          "Promotes hydration and digestion.",
+          "A fruity, refreshing tea for any time of the day."
+        ],
+        "cautions": "Consult your doctor before use if you are taking any medication or have a medical condition. Not recommended for children below 12 years.",
+        "ingredients": "Hibiscus, Rosehips, Dried Berries, Natural Berry Flavor",
+        "instructions": "Steep at 212°F for 5-7 minutes. Use 1–2 teaspoons or 1 tea sachet per 8 oz cup. Serve hot or iced with a touch of honey or lemon for added flavor.",
+        "size": "1.3 oz loose leaf or 15 tea sachets."
+      }
+    },
+    {
+      "name": "Tech Vibes",
+      "category":"tshirt",
+      "id": "2",
+      "image": "/assets/images/Tshirt/tshirt1.png",
+      "lowest_price": 6,
+      "highest_price": 12,
+      "rating": 4.8,
+      "about": "Wear your passion for tech with this minimalist design that speaks to developers, engineers, and anyone who's all about that coding life. Crafted from premium cotton, this t-shirt is as comfortable as it is stylish, perfect for those long days of brainstorming, debugging, or innovating. Let the world know: you are all about progress, growth, and tech vibes only.",
+      "detailed_description": {
+        "summary": "Wear your passion for tech with this minimalist design that speaks to developers, engineers, and anyone who's all about that coding life. Crafted from premium cotton, this t-shirt is as comfortable as it is stylish, perfect for those long days of brainstorming, debugging, or innovating. Let the world know: you’re all about progress, growth, and tech vibes only.",
+        "benefits": [
+          "Rich in antioxidants for combating free radicals.",
+          "Promotes hydration and digestion.",
+          "A fruity, refreshing tea for any time of the day."
+        ],
+        "cautions": "Avoid excessive consumption due to its high caffeine content. Consult a healthcare provider if you have sensitivities to caffeine.",
+        "ingredients": "Black tea leaves",
+        "instructions": "Steep at 212°F for 3-5 minutes. Use 1 teaspoon per 8 oz cup. Add milk or sugar to taste for a traditional experience.",
+        "size": "2 oz loose leaf or 20 tea bags."
+      }
+    },
+    {
+      "name": "Tech Vibes",
+      "category":"tshirt",
+      "id": "3",
+      "image": "/assets/images/Tshirt/tshirt1.png",
+      "lowest_price": 8,
+      "highest_price": 15,
+      "rating": 4.5,
+      "about": "Wear your passion for tech with this minimalist design that speaks to developers, engineers, and anyone who's all about that coding life. Crafted from premium cotton, this t-shirt is as comfortable as it is stylish, perfect for those long days of brainstorming, debugging, or innovating. Let the world know: you are all about progress, growth, and tech vibes only.",
+      "detailed_description": {
+        "summary": "Wear your passion for tech with this minimalist design that speaks to developers, engineers, and anyone who's all about that coding life. Crafted from premium cotton, this t-shirt is as comfortable as it is stylish, perfect for those long days of brainstorming, debugging, or innovating. Let the world know: you’re all about progress, growth, and tech vibes only.",
+        "benefits": [
+          "Rich in antioxidants for combating free radicals.",
+          "Promotes hydration and digestion.",
+          "A fruity, refreshing tea for any time of the day."
+        ],
+        "cautions": "Consult a healthcare provider if you are pregnant, nursing, or taking medication. Not suitable for children under 12.",
+        "ingredients": "Peppermint, Eucalyptus, Licorice Root, Ginger",
+        "instructions": "Steep at 212°F for 5-7 minutes. Use 1–2 teaspoons or 1 sachet per 8 oz cup. Serve hot for best results.",
+        "size": "1.3 oz loose leaf or 15 tea sachets."
+      }
+    },
+    {
+      "name": "Tech Vibes",
+      "category":"tshirt",
+      "id": "4",
+      "image": "/assets/images/Tshirt/tshirt1.png",
+      "lowest_price": 4,
+      "highest_price": 9,
+      "rating": 4.6,
+      "about": "Wear your passion for tech with this minimalist design that speaks to developers, engineers, and anyone who's all about that coding life. Crafted from premium cotton, this t-shirt is as comfortable as it is stylish, perfect for those long days of brainstorming, debugging, or innovating. Let the world know: you are all about progress, growth, and tech vibes only.",
+      "detailed_description": {
+        "summary": "Wear your passion for tech with this minimalist design that speaks to developers, engineers, and anyone who's all about that coding life. Crafted from premium cotton, this t-shirt is as comfortable as it is stylish, perfect for those long days of brainstorming, debugging, or innovating. Let the world know: you’re all about progress, growth, and tech vibes only.",
+        "benefits": [
+          "Rich in antioxidants for combating free radicals.",
+          "Promotes hydration and digestion.",
+          "A fruity, refreshing tea for any time of the day."
+        ],
+        "cautions": "Not recommended for pregnant or nursing women. Consult your doctor if taking any medications.",
+        "ingredients": "Butterfly pea flowers",
+        "instructions": "Steep at 185°F for 3-5 minutes. Use 1 teaspoon per 8 oz cup. Add lemon juice to witness the color transformation.",
+        "size": "1 oz loose leaf or 10 tea sachets."
+      }
+    },
+    {
+      "name": "Tech Vibes",
+      "category":"tshirt",
+      "id": "5",
+      "image": "/assets/images/Tshirt/tshirt1.png",
+      "lowest_price": 10,
+      "highest_price": 18,
+      "rating": 4.9,
+      "about": "Wear your passion for tech with this minimalist design that speaks to developers, engineers, and anyone who's all about that coding life. Crafted from premium cotton, this t-shirt is as comfortable as it is stylish, perfect for those long days of brainstorming, debugging, or innovating. Let the world know: you are all about progress, growth, and tech vibes only.",
+      "detailed_description": {
+        "summary": "Wear your passion for tech with this minimalist design that speaks to developers, engineers, and anyone who's all about that coding life. Crafted from premium cotton, this t-shirt is as comfortable as it is stylish, perfect for those long days of brainstorming, debugging, or innovating. Let the world know: you’re all about progress, growth, and tech vibes only.",
+        "benefits": [
+          "Rich in antioxidants for combating free radicals.",
+          "Promotes hydration and digestion.",
+          "A fruity, refreshing tea for any time of the day."
+        ],
+        "cautions": "Consult a doctor before use if you are allergic to flowers in the daisy family. Not recommended for children under 12.",
+        "ingredients": "Chamomile flowers",
+        "instructions": "Steep at 212°F for 5-7 minutes. Use 1–2 teaspoons or 1 sachet per 8 oz cup. Enjoy plain or with honey for added sweetness.",
+        "size": "1.5 oz loose leaf or 15 tea sachets."
+      }
+    },
+    {
+        "name": "Code Whisperer",
+        "category":"tole",
+        "id": "6",
+        "image": "/assets/images/Tole/bag1.png",
+        "lowest_price": 5,
+        "highest_price": 10,
+        "rating": 4.7,
+        "about": "Unleash your inner coder with this sleek and stylish tee. The Code Whisperer design celebrates those who can speak the language of computers, debug with ease, and bring ideas to life through code. Made from soft, high-quality fabric, this t-shirt is perfect for both long coding sessions and casual hangouts. Wear it proudly and let the world know you are the master of the digital realm.",
+        "detailed_description": {
+          "summary": "Unleash your inner coder with this sleek and stylish tee. The Code Whisperer design celebrates those who can speak the language of computers, debug with ease, and bring ideas to life through code. Made from soft, high-quality fabric, this t-shirt is perfect for both long coding sessions and casual hangouts. Wear it proudly and let the world know you are the master of the digital realm.",
+          "benefits": [
+            "Rich in antioxidants for combating free radicals.",
+            "Promotes hydration and digestion.",
+            "A fruity, refreshing tea for any time of the day."
+          ],
+          "cautions": "Consult your doctor before use if you are taking any medication or have a medical condition. Not recommended for children below 12 years.",
+          "ingredients": "Hibiscus, Rosehips, Dried Berries, Natural Berry Flavor",
+          "instructions": "Steep at 212°F for 5-7 minutes. Use 1–2 teaspoons or 1 tea sachet per 8 oz cup. Serve hot or iced with a touch of honey or lemon for added flavor.",
+          "size": "1.3 oz loose leaf or 15 tea sachets."
+        }
+      },
+      {
+        "name": "Code Whisperer",
+        "category":"tole",
+        "id": "7",
+        "image": "/assets/images/Tole/bag1.png",
+        "lowest_price": 6,
+        "highest_price": 12,
+        "rating": 4.8,
+        "about": "Unleash your inner coder with this sleek and stylish tee. The Code Whisperer design celebrates those who can speak the language of computers, debug with ease, and bring ideas to life through code. Made from soft, high-quality fabric, this t-shirt is perfect for both long coding sessions and casual hangouts. Wear it proudly and let the world know you are the master of the digital realm.",
+        "detailed_description": {
+          "summary": "Unleash your inner coder with this sleek and stylish tee. The Code Whisperer design celebrates those who can speak the language of computers, debug with ease, and bring ideas to life through code. Made from soft, high-quality fabric, this t-shirt is perfect for both long coding sessions and casual hangouts. Wear it proudly and let the world know you are the master of the digital realm.",
+          "benefits": [
+            "Boosts energy and mental focus.",
+            "Rich in antioxidants that support heart health.",
+            "Can aid digestion and metabolism."
+          ],
+          "cautions": "Avoid excessive consumption due to its high caffeine content. Consult a healthcare provider if you have sensitivities to caffeine.",
+          "ingredients": "Black tea leaves",
+          "instructions": "Steep at 212°F for 3-5 minutes. Use 1 teaspoon per 8 oz cup. Add milk or sugar to taste for a traditional experience.",
+          "size": "2 oz loose leaf or 20 tea bags."
+        }
+      },
+      {
+        "name": "Code Whisperer",
+        "category":"tole",
+        "id": "8",
+        "image": "/assets/images/Tole/bag1.png",
+        "lowest_price": 8,
+        "highest_price": 15,
+        "rating": 4.5,
+        "about": "Unleash your inner coder with this sleek and stylish tee. The Code Whisperer design celebrates those who can speak the language of computers, debug with ease, and bring ideas to life through code. Made from soft, high-quality fabric, this t-shirt is perfect for both long coding sessions and casual hangouts. Wear it proudly and let the world know you are the master of the digital realm.",
+        "detailed_description": {
+          "summary": "Unleash your inner coder with this sleek and stylish tee. The Code Whisperer design celebrates those who can speak the language of computers, debug with ease, and bring ideas to life through code. Made from soft, high-quality fabric, this t-shirt is perfect for both long coding sessions and casual hangouts. Wear it proudly and let the world know you are the master of the digital realm.",
+          "benefits": [
+            "Relieves congestion and supports respiratory health.",
+            "Soothes sore throat and reduces inflammation.",
+            "Promotes relaxation with its calming herbal blend."
+          ],
+          "cautions": "Consult a healthcare provider if you are pregnant, nursing, or taking medication. Not suitable for children under 12.",
+          "ingredients": "Peppermint, Eucalyptus, Licorice Root, Ginger",
+          "instructions": "Steep at 212°F for 5-7 minutes. Use 1–2 teaspoons or 1 sachet per 8 oz cup. Serve hot for best results.",
+          "size": "1.3 oz loose leaf or 15 tea sachets."
+        }
+      },
+      {
+        "name": "Code Whisperer",
+        "category":"tole",
+        "id": "9",
+        "image": "/assets/images/Tole/bag1.png",
+        "lowest_price": 4,
+        "highest_price": 9,
+        "rating": 4.6,
+        "about": "Unleash your inner coder with this sleek and stylish tee. The Code Whisperer design celebrates those who can speak the language of computers, debug with ease, and bring ideas to life through code. Made from soft, high-quality fabric, this t-shirt is perfect for both long coding sessions and casual hangouts. Wear it proudly and let the world know you are the master of the digital realm.",
+        "detailed_description": {
+          "summary": "Unleash your inner coder with this sleek and stylish tee. The Code Whisperer design celebrates those who can speak the language of computers, debug with ease, and bring ideas to life through code. Made from soft, high-quality fabric, this t-shirt is perfect for both long coding sessions and casual hangouts. Wear it proudly and let the world know you are the master of the digital realm.",
+          "benefits": [
+            "Enhances mood and reduces stress.",
+            "Improves skin and hair health.",
+            "Loaded with antioxidants to promote overall wellness."
+          ],
+          "cautions": "Not recommended for pregnant or nursing women. Consult your doctor if taking any medications.",
+          "ingredients": "Butterfly pea flowers",
+          "instructions": "Steep at 185°F for 3-5 minutes. Use 1 teaspoon per 8 oz cup. Add lemon juice to witness the color transformation.",
+          "size": "1 oz loose leaf or 10 tea sachets."
+        }
+      },
+      {
+        "name": "Code Whisperer",
+        "category":"tole",
+        "id": "10",
+        "image": "/assets/images/Tole/bag1.png",
+        "lowest_price": 10,
+        "highest_price": 18,
+        "rating": 4.9,
+        "about": "Unleash your inner coder with this sleek and stylish tee. The Code Whisperer design celebrates those who can speak the language of computers, debug with ease, and bring ideas to life through code. Made from soft, high-quality fabric, this t-shirt is perfect for both long coding sessions and casual hangouts. Wear it proudly and let the world know you are the master of the digital realm.",
+        "detailed_description": {
+          "summary": "Unleash your inner coder with this sleek and stylish tee. The Code Whisperer design celebrates those who can speak the language of computers, debug with ease, and bring ideas to life through code. Made from soft, high-quality fabric, this t-shirt is perfect for both long coding sessions and casual hangouts. Wear it proudly and let the world know you are the master of the digital realm.",
+          "benefits": [
+            "Promotes sleep and reduces insomnia.",
+            "Alleviates stress and anxiety.",
+            "Soothes digestive issues and supports gut health."
+          ],
+          "cautions": "Consult a doctor before use if you are allergic to flowers in the daisy family. Not recommended for children under 12.",
+          "ingredients": "Chamomile flowers",
+          "instructions": "Steep at 212°F for 5-7 minutes. Use 1–2 teaspoons or 1 sachet per 8 oz cup. Enjoy plain or with honey for added sweetness.",
+          "size": "1.5 oz loose leaf or 15 tea sachets."
+        }
+      },
+      {
+        "name": "Berry Blast",
+        "category":"tea",
+        "id": "11",
+        "image": "/assets/images/Teas/Berry Blast.png",
+        "lowest_price": 5,
+        "highest_price": 10,
+        "rating": 4.7,
+        "about": "Berry Blast is a delightful herbal tea packed with the tangy and sweet flavors of mixed berries. This refreshing tea is perfect for both hot summer days and cozy evenings, offering a burst of natural antioxidants.",
+        "detailed_description": {
+          "summary": "Dive into the tangy and sweet world of Berry Blast, a fruit-infused herbal tea bursting with the goodness of berries and natural herbs. Perfect for energizing your mornings or enjoying a cool, refreshing iced tea in the afternoon.",
+          "benefits": [
+            "Rich in antioxidants for combating free radicals.",
+            "Promotes hydration and digestion.",
+            "A fruity, refreshing tea for any time of the day."
+          ],
+          "cautions": "Consult your doctor before use if you are taking any medication or have a medical condition. Not recommended for children below 12 years.",
+          "ingredients": "Hibiscus, Rosehips, Dried Berries, Natural Berry Flavor",
+          "instructions": "Steep at 212°F for 5-7 minutes. Use 1–2 teaspoons or 1 tea sachet per 8 oz cup. Serve hot or iced with a touch of honey or lemon for added flavor.",
+          "size": "1.3 oz loose leaf or 15 tea sachets."
+        }
+      },
+      {
+        "name": "Black Tea",
+        "category":"tea",
+        "id": "12",
+        "image": "/assets/images/Teas/Black Tea.png",
+        "lowest_price": 6,
+        "highest_price": 12,
+        "rating": 4.8,
+        "about": "A traditional tea with a strong, bold flavor, Black Tea is an all-time favorite for its versatility and rich taste. It's perfect for starting your day or enjoying a relaxing afternoon break.",
+        "detailed_description": {
+          "summary": "Enjoy the classic boldness of Black Tea, a full-bodied beverage perfect for morning energy or an afternoon pick-me-up. With its rich flavor and high caffeine content, Black Tea is a versatile drink for tea lovers everywhere.",
+          "benefits": [
+            "Boosts energy and mental focus.",
+            "Rich in antioxidants that support heart health.",
+            "Can aid digestion and metabolism."
+          ],
+          "cautions": "Avoid excessive consumption due to its high caffeine content. Consult a healthcare provider if you have sensitivities to caffeine.",
+          "ingredients": "Black tea leaves",
+          "instructions": "Steep at 212°F for 3-5 minutes. Use 1 teaspoon per 8 oz cup. Add milk or sugar to taste for a traditional experience.",
+          "size": "2 oz loose leaf or 20 tea bags."
+        }
+      },
+      {
+        "name": "Breathe Well",
+        "category":"tea",
+        "id": "13",
+        "image": "/assets/images/Teas/Breathe Well.png",
+        "lowest_price": 8,
+        "highest_price": 15,
+        "rating": 4.5,
+        "about": "Breathe Well is a soothing blend of herbs that promotes respiratory health and relaxation. This tea is a natural remedy for colds and congestion, offering a calming effect with every sip.",
+        "detailed_description": {
+          "summary": "Clear your mind and breathe deeply with Breathe Well Tea, a herbal blend designed to support respiratory health and relaxation. With its minty freshness and soothing ingredients, this tea is ideal for seasonal wellness or everyday calm.",
+          "benefits": [
+            "Relieves congestion and supports respiratory health.",
+            "Soothes sore throat and reduces inflammation.",
+            "Promotes relaxation with its calming herbal blend."
+          ],
+          "cautions": "Consult a healthcare provider if you are pregnant, nursing, or taking medication. Not suitable for children under 12.",
+          "ingredients": "Peppermint, Eucalyptus, Licorice Root, Ginger",
+          "instructions": "Steep at 212°F for 5-7 minutes. Use 1–2 teaspoons or 1 sachet per 8 oz cup. Serve hot for best results.",
+          "size": "1.3 oz loose leaf or 15 tea sachets."
+        }
+      },
+      {
+        "name": "Butterfly Pea",
+        "category":"tea",
+        "id": "14",
+        "image": "/assets/images/Teas/Butterfly Pea.png",
+        "lowest_price": 4,
+        "highest_price": 9,
+        "rating": 4.6,
+        "about": "Butterfly Pea is a mesmerizing herbal tea known for its vibrant blue color that changes to purple with a squeeze of lemon. Enjoy its mild floral flavor and mood-enhancing properties.",
+        "detailed_description": {
+          "summary": "Butterfly Pea Tea is a captivating herbal tea with a vibrant blue hue and magical color-changing properties. A natural mood enhancer and antioxidant powerhouse, this tea is as beneficial as it is beautiful.",
+          "benefits": [
+            "Enhances mood and reduces stress.",
+            "Improves skin and hair health.",
+            "Loaded with antioxidants to promote overall wellness."
+          ],
+          "cautions": "Not recommended for pregnant or nursing women. Consult your doctor if taking any medications.",
+          "ingredients": "Butterfly pea flowers",
+          "instructions": "Steep at 185°F for 3-5 minutes. Use 1 teaspoon per 8 oz cup. Add lemon juice to witness the color transformation.",
+          "size": "1 oz loose leaf or 10 tea sachets."
+        }
+      },
+      {
+        "name": "Chamomile",
+        "category":"tea",
+        "id": "15",
+        "image": "/assets/images/Teas/Chamomile.png",
+        "lowest_price": 10,
+        "highest_price": 18,
+        "rating": 4.9,
+        "about": "Chamomile is a timeless herbal tea known for its calming properties and delicate floral flavor. It's the ideal choice for unwinding after a long day or preparing for a restful sleep.",
+        "detailed_description": {
+          "summary": "Unwind with Chamomile Tea, a gentle herbal blend renowned for its calming properties and sweet, floral flavor. Perfect for bedtime, this tea is a soothing companion for relaxation and rest.",
+          "benefits": [
+            "Promotes sleep and reduces insomnia.",
+            "Alleviates stress and anxiety.",
+            "Soothes digestive issues and supports gut health."
+          ],
+          "cautions": "Consult a doctor before use if you are allergic to flowers in the daisy family. Not recommended for children under 12.",
+          "ingredients": "Chamomile flowers",
+          "instructions": "Steep at 212°F for 5-7 minutes. Use 1–2 teaspoons or 1 sachet per 8 oz cup. Enjoy plain or with honey for added sweetness.",
+          "size": "1.5 oz loose leaf or 15 tea sachets."
+        }
+      },
+      {
+        "name": "Byte & Brew",
+        "category":"mug",
+        "id": "16",
+        "image": "/assets/images/Mug/mug1.png",
+        "lowest_price": 5,
+        "highest_price": 10,
+        "rating": 4.7,
+        "about": " For those who code and caffeinate in equal measure, the Byte & Brew mug combines the best of both worlds. This unique, tech-inspired mug features a sleek design that celebrates the digital age while keeping your coffee hot and your ideas flowing. Crafted from high-quality ceramic, this the perfect companion for those long coding sessions or moments of creative brilliance. Sip, code, repeat.",
+        "detailed_description": {
+          "summary": "Dive into the tangy and sweet world of Berry Blast, a fruit-infused herbal tea bursting with the goodness of berries and natural herbs. Perfect for energizing your mornings or enjoying a cool, refreshing iced tea in the afternoon.",
+          "benefits": [
+            "Rich in antioxidants for combating free radicals.",
+            "Promotes hydration and digestion.",
+            "A fruity, refreshing tea for any time of the day."
+          ],
+          "cautions": "Consult your doctor before use if you are taking any medication or have a medical condition. Not recommended for children below 12 years.",
+          "ingredients": "Hibiscus, Rosehips, Dried Berries, Natural Berry Flavor",
+          "instructions": "Steep at 212°F for 5-7 minutes. Use 1–2 teaspoons or 1 tea sachet per 8 oz cup. Serve hot or iced with a touch of honey or lemon for added flavor.",
+          "size": "1.3 oz loose leaf or 15 tea sachets."
+        }
+      },
+      {
+        "name": "Byte & Brew",
+        "category":"mug",
+        "id": "17",
+        "image": "/assets/images/Mug/mug1.png",
+        "lowest_price": 6,
+        "highest_price": 12,
+        "rating": 4.8,
+        "about": " For those who code and caffeinate in equal measure, the Byte & Brew mug combines the best of both worlds. This unique, tech-inspired mug features a sleek design that celebrates the digital age while keeping your coffee hot and your ideas flowing. Crafted from high-quality ceramic, this the perfect companion for those long coding sessions or moments of creative brilliance. Sip, code, repeat.",
+        "detailed_description": {
+          "summary": "Enjoy the classic boldness of Black Tea, a full-bodied beverage perfect for morning energy or an afternoon pick-me-up. With its rich flavor and high caffeine content, Black Tea is a versatile drink for tea lovers everywhere.",
+          "benefits": [
+            "Boosts energy and mental focus.",
+            "Rich in antioxidants that support heart health.",
+            "Can aid digestion and metabolism."
+          ],
+          "cautions": "Avoid excessive consumption due to its high caffeine content. Consult a healthcare provider if you have sensitivities to caffeine.",
+          "ingredients": "Black tea leaves",
+          "instructions": "Steep at 212°F for 3-5 minutes. Use 1 teaspoon per 8 oz cup. Add milk or sugar to taste for a traditional experience.",
+          "size": "2 oz loose leaf or 20 tea bags."
+        }
+      },
+      {
+        "name": "Byte & Brew",
+        "category":"mug",
+        "id": "18",
+        "image": "/assets/images/Mug/mug1.png",
+        "lowest_price": 8,
+        "highest_price": 15,
+        "rating": 4.5,
+        "about": " For those who code and caffeinate in equal measure, the Byte & Brew mug combines the best of both worlds. This unique, tech-inspired mug features a sleek design that celebrates the digital age while keeping your coffee hot and your ideas flowing. Crafted from high-quality ceramic, this the perfect companion for those long coding sessions or moments of creative brilliance. Sip, code, repeat.",
+        "detailed_description": {
+          "summary": "Clear your mind and breathe deeply with Breathe Well Tea, a herbal blend designed to support respiratory health and relaxation. With its minty freshness and soothing ingredients, this tea is ideal for seasonal wellness or everyday calm.",
+          "benefits": [
+            "Relieves congestion and supports respiratory health.",
+            "Soothes sore throat and reduces inflammation.",
+            "Promotes relaxation with its calming herbal blend."
+          ],
+          "cautions": "Consult a healthcare provider if you are pregnant, nursing, or taking medication. Not suitable for children under 12.",
+          "ingredients": "Peppermint, Eucalyptus, Licorice Root, Ginger",
+          "instructions": "Steep at 212°F for 5-7 minutes. Use 1–2 teaspoons or 1 sachet per 8 oz cup. Serve hot for best results.",
+          "size": "1.3 oz loose leaf or 15 tea sachets."
+        }
+      },
+      {
+        "name": "Byte & Brew",
+        "category":"mug",
+        "id": "19",
+        "image": "/assets/images/Mug/mug1.png",
+        "lowest_price": 4,
+        "highest_price": 9,
+        "rating": 4.6,
+        "about": " For those who code and caffeinate in equal measure, the Byte & Brew mug combines the best of both worlds. This unique, tech-inspired mug features a sleek design that celebrates the digital age while keeping your coffee hot and your ideas flowing. Crafted from high-quality ceramic, this the perfect companion for those long coding sessions or moments of creative brilliance. Sip, code, repeat.",
+        "detailed_description": {
+          "summary": "Butterfly Pea Tea is a captivating herbal tea with a vibrant blue hue and magical color-changing properties. A natural mood enhancer and antioxidant powerhouse, this tea is as beneficial as it is beautiful.",
+          "benefits": [
+            "Enhances mood and reduces stress.",
+            "Improves skin and hair health.",
+            "Loaded with antioxidants to promote overall wellness."
+          ],
+          "cautions": "Not recommended for pregnant or nursing women. Consult your doctor if taking any medications.",
+          "ingredients": "Butterfly pea flowers",
+          "instructions": "Steep at 185°F for 3-5 minutes. Use 1 teaspoon per 8 oz cup. Add lemon juice to witness the color transformation.",
+          "size": "1 oz loose leaf or 10 tea sachets."
+        }
+      },
+      {
+        "name": "Byte & Brew",
+        "category":"mug",
+        "id": "20",
+        "image": "/assets/images/Mug/mug1.png",
+        "lowest_price": 10,
+        "highest_price": 18,
+        "rating": 4.9,
+        "about": " For those who code and caffeinate in equal measure, the Byte & Brew mug combines the best of both worlds. This unique, tech-inspired mug features a sleek design that celebrates the digital age while keeping your coffee hot and your ideas flowing. Crafted from high-quality ceramic, this the perfect companion for those long coding sessions or moments of creative brilliance. Sip, code, repeat.",
+        "detailed_description": {
+          "summary": "Unwind with Chamomile Tea, a gentle herbal blend renowned for its calming properties and sweet, floral flavor. Perfect for bedtime, this tea is a soothing companion for relaxation and rest.",
+          "benefits": [
+            "Promotes sleep and reduces insomnia.",
+            "Alleviates stress and anxiety.",
+            "Soothes digestive issues and supports gut health."
+          ],
+          "cautions": "Consult a doctor before use if you are allergic to flowers in the daisy family. Not recommended for children under 12.",
+          "ingredients": "Chamomile flowers",
+          "instructions": "Steep at 212°F for 5-7 minutes. Use 1–2 teaspoons or 1 sachet per 8 oz cup. Enjoy plain or with honey for added sweetness.",
+          "size": "1.5 oz loose leaf or 15 tea sachets."
+        }
+      }
+
+
+
+  ]
+  

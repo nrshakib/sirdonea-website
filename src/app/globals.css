@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply -z-20;
+}
+
+.input-radio:checked {
+  background-color: #009368; /* Changes the background when checked */
+  border-color: #009368; /* Changes border color */
+}

@@ -1,0 +1,149 @@
+[
+  {
+    "img": "/assets/images/Teas/Berry Blast.JPG",
+    "name": "Berry Blast",
+    "lowestPrice": 26,
+    "highestPrice": 28,
+    "rating": 5
+  },
+  {
+    "img": "/assets/images/Tshirt/tshirt1.png",
+    "name": "tshirt",
+    "lowestPrice": 260,
+    "highestPrice": 280,
+    "rating": 4.5
+  },
+  {
+    "img": "/assets/images/Teas/Black Tea.JPG",
+    "name": "Black Tea",
+    "lowestPrice": 26,
+    "highestPrice": 28,
+    "rating": 5
+  },
+  {
+    "img": "/assets/images/Teas/Breathe Well.JPG",
+    "name": "Breathe Well",
+    "lowestPrice": 26,
+    "highestPrice": 28,
+    "rating": 5
+  },
+  {
+    "img": "/assets/images/Teas/Butterfly Pea.JPG",
+    "name": "Butterfly Pea Tea",
+    "lowestPrice": 26,
+    "highestPrice": 28,
+    "rating": 5
+  },
+  {
+    "img": "/assets/images/Teas/Chamomile.JPG",
+    "name": "Chamomile",
+    "lowestPrice": 26,
+    "highestPrice": 28,
+    "rating": 5
+  },
+  {
+    "img": "/assets/images/Teas/Chocolate Dream.JPG",
+    "name": "Chocolate Dreams",
+    "lowestPrice": 26,
+    "highestPrice": 28,
+    "rating": 5
+  },
+  {
+    "img": "/assets/images/Teas/Citrus Mint Green.JPG",
+    "name": "Citrus Mint Green",
+    "lowestPrice": 26,
+    "highestPrice": 28,
+    "rating": 5
+  },
+  {
+    "img": "/assets/images/Teas/Cold and Flu.JPG",
+    "name": "Cold & Flu",
+    "lowestPrice": 26,
+    "highestPrice": 28,
+    "rating": 5
+  },
+  {
+    "img": "/assets/images/Teas/Cranberry Nut Muffin Green.JPG",
+    "name": "Cranberry Nut Muffin Green",
+    "lowestPrice": 26,
+    "highestPrice": 28,
+    "rating": 5
+  },
+  {
+    "img": "/assets/images/Teas/Earl Grey.JPG",
+    "name": "Earl Grey",
+    "lowestPrice": 26,
+    "highestPrice": 28,
+    "rating": 5
+  },
+  {
+    "img": "/assets/images/Teas/Good Night Sleep.JPG",
+    "name": "Good Night Sleep",
+    "lowestPrice": 26,
+    "highestPrice": 28,
+    "rating": 5
+  },
+  {
+    "img": "/assets/images/Teas/Green Tea.JPG",
+    "name": "Green Tea",
+    "lowestPrice": 26,
+    "highestPrice": 28,
+    "rating": 5
+  },
+  {
+    "img": "/assets/images/Teas/Irish Breakfast.JPG",
+    "name": "Irish Breakfast",
+    "lowestPrice": 26,
+    "highestPrice": 28,
+    "rating": 5
+  },
+  {
+    "img": "/assets/images/Teas/Mango.JPG",
+    "name": "Mango",
+    "lowestPrice": 26,
+    "highestPrice": 28,
+    "rating": 5
+  },
+  {
+    "img": "/assets/images/Teas/Mango Green.JPG",
+    "name": "Mango Green",
+    "lowestPrice": 26,
+    "highestPrice": 28,
+    "rating": 5
+  },
+  {
+    "img": "/assets/images/Teas/Minty Comfort.JPG",
+    "name": "Minty Comfort",
+    "lowestPrice": 26,
+    "highestPrice": 28,
+    "rating": 5
+  },
+  {
+    "img": "/assets/images/Teas/Moroccan Mint.JPG",
+    "name": "Moroccan Mint",
+    "lowestPrice": 26,
+    "highestPrice": 28,
+    "rating": 5
+  },
+  {
+    "img": "/assets/images/Teas/Mother's Loves.JPG",
+    "name": "Mother's Loves",
+    "lowestPrice": 26,
+    "highestPrice": 28,
+    "rating": 5
+  },
+  {
+    "img": "/assets/images/Teas/Peach.JPG",
+    "name": "Peach",
+    "lowestPrice": 26,
+    "highestPrice": 28,
+    "rating": 5
+  },
+  {
+    "img": "/assets/images/Teas/Peach Bellini.JPG",
+    "name": "Peach Bellini",
+    "lowestPrice": 26,
+    "highestPrice": 28,
+    "rating": 5
+  }
+]
